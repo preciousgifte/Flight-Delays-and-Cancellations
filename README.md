@@ -28,5 +28,5 @@ Was your flight canceled or delayed? Flight disruptions can be caused by any num
 
 
 
-#### Which month have the highest number of flight cancelled? Does the cancellation reason vary monthly
+#### Which month have the highest number of flight cancelled? Does the cancellation reason varys monthly
 ![Capture2](https://user-images.githubusercontent.com/105650627/172259589-b47f1052-ee85-47f3-9cbf-3aa2d8c2cf1b.JPG)
